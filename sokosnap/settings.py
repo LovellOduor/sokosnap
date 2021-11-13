@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-i05f$^x2rrvr8099v^x*b5d4oo7(%$l9ygw@!cdn8tjpmfwws!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pima.co.ke','127.0.0.1']
+ALLOWED_HOSTS = ['pima.co.ke','127.0.0.1','ancient-crag-35669.herokuapp.com']
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'vendor_admin'
